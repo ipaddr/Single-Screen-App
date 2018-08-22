@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="contact">Contact : 123-456-789</string>
+    <string name="address">Location: Padang, West Sumatera</string>
+    <string name="description">Description: Selling a local chip</string>
+    <string name="hours">Hours: 9 AM - 9 PM</string>
+</resources>
